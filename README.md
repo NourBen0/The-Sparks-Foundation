@@ -6,4 +6,5 @@
 
 🌍🚀🔮 The Sparks Foundation believes in the power of education to transform lives and drive innovation. By providing a platform for learning and collaboration, the foundation aims to create a global community of talented individuals who can harness the potential of data science and AI to shape the future.
 
+
 ![image](https://github.com/NourBen0/The-Sparks-Foundation/assets/107277249/7dda6c42-2be3-44a7-af66-2e628792dbbd)
