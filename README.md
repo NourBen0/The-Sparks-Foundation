@@ -1,4 +1,4 @@
-# The-Sparks-Foundation
+# The-Sparks-Foundation-Internship
 
 🌟The Sparks Foundation is a non-profit organization that aims to provide quality education and empower students in the field of data science, artificial intelligence, and other emerging technologies. 🌟 It was established with the vision of making education accessible to all and fostering a community of skilled individuals who can contribute to the advancement of these fields.
 
